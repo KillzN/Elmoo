@@ -1,5 +1,5 @@
 {
-  "name": "KillzN",
+  "name": "Nikolbot",
   "version": "1.0.0",
   "description": "Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.",
   "main": "index.js",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
   "author": {
-    "name": "KillzN"
+    "name": "Nikolbot"
   },
   "repository": {
     "type": "git",

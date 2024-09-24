@@ -1,4 +1,4 @@
-// KillzN@BrunoSobrino - _antiarab.js
+// Nikolbot@BrunoSobrino - _antiarab.js
 
 
 const handler = (m) => m;
