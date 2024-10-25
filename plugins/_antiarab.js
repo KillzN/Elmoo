@@ -1,4 +1,4 @@
-// Nikolbot@BrunoSobrino - _antiarab.js
+// Elmo@ineffable.mvrco - _antiarab.js
 
 
 const handler = (m) => m;

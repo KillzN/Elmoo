@@ -1,4 +1,4 @@
-/* Codigo hecho por @Nikolbot y mejorado por Nikolbot */
+/* Codigo hecho por @Elmo y mejorado por Elmo */
 
 import { readdirSync, unlinkSync, existsSync, promises as fs, rmSync, readFileSync } from 'fs';
 import path from 'path';
@@ -13,7 +13,7 @@ const handler = async (m, { conn, usedPrefix }) => {
     return conn.sendMessage(m.chat, {text: tradutor.texto1}, {quoted: m});
   }
   await conn.sendMessage(m.chat, {text: tradutor.texto2}, {quoted: m});
-  const sessionPath = './NikolbotSession/';
+  const sessionPath = './ElmoSession/';
   try {
     if (!existsSync(sessionPath)) {
       return await conn.sendMessage(m.chat, {text: tradutor.texto3}, {quoted: m});

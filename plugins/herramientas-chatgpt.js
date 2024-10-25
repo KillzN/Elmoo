@@ -7,7 +7,7 @@
 /*     ◉ Número: wa.me/51993966345                       */
 /*                                                       */
 /*     —◉ FT:                                            */
-/*     ◉ Nikolbot (https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC)  */
+/*     ◉ Elmo (https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT)  */
 /*                                                       */
 /* [❗]                      [❗]                      [❗] */
 /* -------------------------------------------------------*/
@@ -67,5 +67,5 @@ const handler = async (m, {conn, text, usedPrefix, command}) => {
    }
  }
 };
-handler.command = /^(openai|chatgpt|ia|robot|openai2|chatgpt2|ia2|robot2|Nikolbot|NikolbotBot)$/i;
+handler.command = /^(openai|chatgpt|ia|robot|openai2|chatgpt2|ia2|robot2|Elmo|ElmoBot)$/i;
 export default handler;

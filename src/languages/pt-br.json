@@ -1,7 +1,7 @@
 {
     "___creditos": {
         "___Contribuidor": "https://github.com/jeffersonalionco",
-        "___Criador": "https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC"
+        "___Criador": "https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT"
     },
     "plugins": {
         "antiarab": {
@@ -802,7 +802,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "*[❗] Insira um link do YouTube.*",
-            "texto2": "🤴🏻 Download por Nikolbot & Nikolbot 🤖"
+            "texto2": "🤴🏻 Download por Elmo & Elmo 🤖"
         },
         "downloader_ytv_2": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] Insira o comando mais o link do vídeo do YouTube*",
@@ -859,8 +859,8 @@
         "fix_owner_esperando_mensajes": {
             "texto1": "*[❗] Utilize este comando diretamente no número principal do Bot.*",
             "texto2": "*[❗] Iniciando processo de exclusão de todos os arquivos de sessão, exceto o arquivo creds.json...*",
-            "texto3": "*[❗] A pasta NikolbotSession não existe ou está vazia.*",
-            "texto4": "*[❗] Nenhum arquivo para excluir foi encontrado na pasta NikolbotSession.*",
+            "texto3": "*[❗] A pasta ElmoSession não existe ou está vazia.*",
+            "texto4": "*[❗] Nenhum arquivo para excluir foi encontrado na pasta ElmoSession.*",
             "texto5": [
                 "*[❗] Foram excluídos",
                 "arquivos de sessão, exceto o arquivo creds.json.*"
@@ -2194,7 +2194,7 @@
                 "[❗INFORMAÇÃO❗] IMPOSSÍVEL ADICIONAR",
                 "À SUA CONTA PORQUE OCORREU UM PROBLEMA. NOTE QUE A PESSOA SAIU DO GRUPO OU CANCELOU SUA PRIVACIDADE DE GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. O CONVITE FOI ENVIADO AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO OU A PESSOA CONFIRMOU SUA PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. CONVIDO VOCÊ AO CONVITE DO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE DO GRUPO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO !!"
             ],
-            "texto4": "Oi!! Olá, eu sou Nikolbot e sou um Bot para WhatsApp. Alguém do grupo usou o comando para te adicionar ao grupo, mas não pude te adicionar, então estou te enviando o convite para que você se junte a nós. Estamos te esperando!!",
+            "texto4": "Oi!! Olá, eu sou Elmo e sou um Bot para WhatsApp. Alguém do grupo usou o comando para te adicionar ao grupo, mas não pude te adicionar, então estou te enviando o convite para que você se junte a nós. Estamos te esperando!!",
             "texto5": "[❗INFORMAÇÃO❗] IMPOSSÍVEL ADICIONAR SEU NÚMERO PORQUE OCORREU UM PROBLEMA. NOTE QUE A PESSOA SAIU DO GRUPO OU CANCELOU SUA PRIVACIDADE DE GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. O CONVITE FOI ENVIADO AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO OU A PESSOA CONFIRMOU SUA PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. CONVIDO VOCÊ AO CONVITE DO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE DO GRUPO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO !!"
         },
         "gc_admins": {
@@ -2416,15 +2416,15 @@
             "texto1": [
                 "*[❗] Você está em uma conversa ou ordem para usar a função de chatbot*\n\n*—◉ Exemplos de Petições e Ordens*\n*◉ Reflexão sobre a série Merlina 2022 da Netflix*\n*◉ Código em JS para um jogo de cartas*"
             ],
-            "texto2": "Você vai atuar como um Bot de WhatsApp criado por Nikolbot, você será Nikolbot.",
-            "texto3": "Você vai atuar como um Bot de WhatsApp criado por Nikolbot, você será Nikolbot.",
+            "texto2": "Você vai atuar como um Bot de WhatsApp criado por Elmo, você será Elmo.",
+            "texto3": "Você vai atuar como um Bot de WhatsApp criado por Elmo, você será Elmo.",
             "texto4": "*[❗] Erro, tente novamente*"
         },
         "herramientas_chatgptvoz": {
             "texto1": [
                 "*[❗] Você está em uma conversa ou ordem para usar a função de chatbot*\n\n*—◉ Exemplos de Petições e Ordens*\n*◉ Reflexão sobre a série Merlina 2022 da Netflix*\n*◉ Código em JS para um jogo de cartas*"
             ],
-            "texto2": "Você vai atuar como um Bot de WhatsApp criado por Nikolbot, você será Nikolbot.",
+            "texto2": "Você vai atuar como um Bot de WhatsApp criado por Elmo, você será Elmo.",
             "texto3": "*[❗] Erro, tente novamente*"
         },
         "herramientas_clima": {
@@ -2625,20 +2625,20 @@
         },
         "info_creador": {
             "texto1": [
-                "*—◉ O número do meu criador é wa.me/50671453710*",
-                "*—◉ O número do colaborador 1 é wa.me/50671453710*",
-                "*—◉ O número do colaborador 2 é wa.me/50671453710*",
-                "*—◉ O número do colaborador 3 é wa.me/50671453710*",
-                "*—◉ O número do colaborador 4 é wa.me/50671453710*",
-                "*—◉ O número do colaborador 5 é wa.me/50671453710*",
-                "*—◉ O número do colaborador 6 é wa.me/50671453710*",
-                "*—◉ O número do colaborador 7 é wa.me/50671453710*",
-                "*—◉ O número do colaborador 8 é wa.me/50671453710*",
-                "*—◉ O número do colaborador 9 é wa.me/50671453710*",
-                "*—◉ O número do colaborador 10 é wa.me/550671453710*",
-                "*—◉ O contato do colaborador 11 é https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC*",
-                "*—◉ O número do colaborador 12 é wa.me/50671453710*",
-                "*—◉ O número do colaborador 13 no Brasil é wa.me/50671453710*"
+                "*—◉ O número do meu criador é wa.me/56993761200*",
+                "*—◉ O número do colaborador 1 é wa.me/56993761200*",
+                "*—◉ O número do colaborador 2 é wa.me/56993761200*",
+                "*—◉ O número do colaborador 3 é wa.me/56993761200*",
+                "*—◉ O número do colaborador 4 é wa.me/56993761200*",
+                "*—◉ O número do colaborador 5 é wa.me/56993761200*",
+                "*—◉ O número do colaborador 6 é wa.me/56993761200*",
+                "*—◉ O número do colaborador 7 é wa.me/56993761200*",
+                "*—◉ O número do colaborador 8 é wa.me/56993761200*",
+                "*—◉ O número do colaborador 9 é wa.me/56993761200*",
+                "*—◉ O número do colaborador 10 é wa.me/556993761200*",
+                "*—◉ O contato do colaborador 11 é https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT*",
+                "*—◉ O número do colaborador 12 é wa.me/56993761200*",
+                "*—◉ O número do colaborador 13 no Brasil é wa.me/56993761200*"
             ],
             "texto2": [
                 "「  Olá Mundo 」",
@@ -2654,19 +2654,19 @@
                 " ➤ CHAVE:",
                 "646180192175788481",
                 "➤ BANCO: STP",
-                "➤ BENEFICIÁRIO: Nikolbot",
+                "➤ BENEFICIÁRIO: Elmo",
                 "➤ CONCEITO: APOIO",
                 "➤ PAYPAL: https://www.paypal.me/TheShadowBrokers133",
                 "👉🏻 ENTRE EM CONTATO CASO NECESSÁRIO",
                 "MAIS DADOS E PARA AGRADECER",
-                "wa.me/50671453710"
+                "wa.me/56993761200"
             ]
         },
         "info_estado": {
             "texto1": [
                 "*< INFORMAÇÃO - ESTADO />*_",
-                "▢ *Prop.:* Nikolbot",
-                "▢ *WA:* +50671453710",
+                "▢ *Prop.:* Elmo",
+                "▢ *WA:* +56993761200",
                 "▢ *PayPal:* paypal.me/TheShadowBrokers133",
                 "▢ *Ping:*",
                 "▢ *Tempo de atividade:*",
@@ -2692,10 +2692,10 @@
             "texto1": [
                 "*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 👋🏻, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙼 𝙰𝙻𝙶𝚄𝙽𝚂 𝙶𝚁𝚄𝙿𝙾𝚂 𝙳𝙾 𝚂𝙷𝙰𝙳𝙾𝚆 𝙱𝚁𝙾𝙺𝙴𝚁𝚂 - 𝚃𝙴𝙰𝙼 𝙿𝙰𝚁𝙰 𝙲𝙾𝙽𝚅𝙸𝚅𝙸𝚁 𝙲𝙾𝙼 𝙻𝙰 𝙲𝙾𝙼𝚄𝙽𝙸𝙳𝙰𝙳𝙴 :D*",
                 "*➤ Grupos oficiais do Bot:*",
-                "*1.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
-                "*2.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
-                "*3.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
-                "*4.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
+                "*1.-* https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT",
+                "*2.-* https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT",
+                "*3.-* https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT",
+                "*4.-* https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT",
                 "*5.-* https://chat.whatsapp.com/DLrFJUPxEQ2IrOm7sJWJ0k"
             ],
             "texto2": "「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」",
@@ -2704,7 +2704,7 @@
         "info_host": {
             "texto1": [
                 "*🚀 -----[ Cafirexos]------- 🚀*",
-                "*Olá a todos 👋🏻 Estamos empolgados em anunciar nossa nova colaboração com Cafirexos 🤖 Agora você pode ter seu próprio bot de THE-Nikolbot-BOT-MD em sua plataforma online, permitindo que seus bots estejam ativos 24/7. 💻*",
+                "*Olá a todos 👋🏻 Estamos empolgados em anunciar nossa nova colaboração com Cafirexos 🤖 Agora você pode ter seu próprio bot de THE-Elmo-BOT-MD em sua plataforma online, permitindo que seus bots estejam ativos 24/7. 💻*",
                 "_A instalação dessas versões foi aprovada e já está em pleno funcionamento. Além disso, *os servidores são totalmente compatíveis, permitindo que você escolha o tipo de inicialização do bot de acordo com suas necessidades.* Prepare-se para uma experiência de usuário contínua e emocionante!_ ",
                 "*Página oficial:*",
                 "https://www.cafirexos.com/",
@@ -2713,7 +2713,7 @@
                 "*Painel:*",
                 "https://panel.cafirexos.com",
                 "*WhatsApp*",
-                "https://wa.me/50671453710",
+                "https://wa.me/56993761200",
                 "*E-mail*",
                 "contacto@cafirexos.com",
                 "*Canal de WhatsApp*",
@@ -2724,7 +2724,7 @@
             "texto2": "O Melhor Hospedagem 🚀"
         },
         "info_instalarbot": {
-            "texto1": "*—◉ INSTALAÇÃO DO BOT PRINCIPAL*\n> Tutorial: https://youtu.be/eC9TfKICpcY\n> Página Oficial: https://boxmineworld.com\n> Painel de Controle: https://dash.boxmineworld.com/home\n> Painel: https://panel.boxmineworld.com\n> Suporte: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ INSTALAÇÃO DO BOT TERCIÁRIO\n> Tutorial: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ COMANDOS DE INSTALAÇÃO*\n> Comandos:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC.git && cd Nikolbot\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ATIVAÇÃO EM CASO DE PARADA NO TERMUX ✔️\nDIGITE OS SEGUINTES COMANDOS UM POR UM:\n> cd Nikolbot\n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENHA OUTRO CÓDIGO QR NO TERMUX 👽\nDIGITE OS SEGUINTES COMANDOS UM POR UM:\n> cd Nikolbot\n> rm -rf NikolbotSession\n> npm start",
+            "texto1": "*—◉ INSTALAÇÃO DO BOT PRINCIPAL*\n> Tutorial: https://youtu.be/eC9TfKICpcY\n> Página Oficial: https://boxmineworld.com\n> Painel de Controle: https://dash.boxmineworld.com/home\n> Painel: https://panel.boxmineworld.com\n> Suporte: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ INSTALAÇÃO DO BOT TERCIÁRIO\n> Tutorial: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ COMANDOS DE INSTALAÇÃO*\n> Comandos:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT.git && cd Elmo\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ATIVAÇÃO EM CASO DE PARADA NO TERMUX ✔️\nDIGITE OS SEGUINTES COMANDOS UM POR UM:\n> cd Elmo\n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENHA OUTRO CÓDIGO QR NO TERMUX 👽\nDIGITE OS SEGUINTES COMANDOS UM POR UM:\n> cd Elmo\n> rm -rf ElmoSession\n> npm start",
             "texto2": "O Melhor Bot do WhatsApp"
         },
         "info_listprem": {
@@ -2759,12 +2759,12 @@
             "texto1": [
                 "_*< INFORMAÇÕES - REPOSITÓRIO />*_",
                 "▢ *Nome:*",
-                "Nikolbot",
+                "Elmo",
                 "▢ *Visitantes:*",
                 "▢ *Tamanho:*",
                 "▢ *Última atualização:*",
                 "▢ *URL:*",
-                "https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
+                "https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT",
                 "Forks ·",
                 "Stars ·",
                 "Issues\n\n",
@@ -2799,7 +2799,7 @@
             "texto1": "*VOCÊ ESTÁ QUENTE 🥵🔥*"
         },
         "maker_logos": {
-            "texto1": "*[❗ℹ️] VOCÊ QUER FAZER UM LOGOTIPO?*\n—◉ _#logo (efeito) (texto)_\n*EXEMPLO:*\n—◉ _#logo 3d-deep-sea-metal Nikolbot_\n\n*[❗] POR FAVOR, LISTE O TEXTO NO QUAL O LOGOTIPO SERÁ APLICADO:*\n—◉ _#logo (efeito) (texto1|texto2)_\n*EXEMPLO:*\n—◉ _#logo Wolf-Logo-Galaxy Nikolbot|Bot_\n\n*<LISTA DE EFEITOS/>*\n\n° 📝 #logo ",
+            "texto1": "*[❗ℹ️] VOCÊ QUER FAZER UM LOGOTIPO?*\n—◉ _#logo (efeito) (texto)_\n*EXEMPLO:*\n—◉ _#logo 3d-deep-sea-metal Elmo_\n\n*[❗] POR FAVOR, LISTE O TEXTO NO QUAL O LOGOTIPO SERÁ APLICADO:*\n—◉ _#logo (efeito) (texto1|texto2)_\n*EXEMPLO:*\n—◉ _#logo Wolf-Logo-Galaxy Elmo|Bot_\n\n*<LISTA DE EFEITOS/>*\n\n° 📝 #logo ",
             "texto2": [
                 "*[❗ℹ️] O EFEITO",
                 "NÃO ESTÁ EM LISTA DE EFEITOS*"
@@ -3367,7 +3367,7 @@
                 "║┈┈┈┈┈┈┈┈┈┈┈┈┈",
                 "Diamantes* 💎",
                 "Tokens* 🪙",
-                "NikolbotCoins* 👾",
+                "ElmoCoins* 👾",
                 "Exp* ⚡",
                 "╚═════════════════⬣"
             ]
@@ -3490,7 +3490,7 @@
                 "*—◉ Continue explorando e realizando missões para alcançar novas alturas na Guilda dos Aventureiros. Continue interagindo com o Bot!*"
             ]
         },
-        "rpg_minar_Nikolbotcoins": {
+        "rpg_minar_Elmocoins": {
             "texto1": [
                 "Que pro 😎 você minerou",
                 "🌟✨ Legal!! Você recebe",
@@ -3829,7 +3829,7 @@
             "texto11": [
                 "[ ⚠️ ] Aviso",
                 "[ ⚠️ ] Aviso",
-                "https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC"
+                "https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT"
             ]
         },
         "participantsUpdate": {

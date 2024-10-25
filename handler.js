@@ -68,7 +68,7 @@ export async function handler(chatUpdate) {
       if (user) {
         // im gona cook this
         // why the fuck nobody put the code like this in 3 years??????
-        // credit to Nikolsita or skidy89
+        // credit to 𝐄𝐋𝐌𝐎 or skidy89
         const dick = {
           afk: -1,
           wait: 0,
@@ -748,7 +748,7 @@ export async function handler(chatUpdate) {
             }
           }*/
           const md5c = fs.readFileSync('./plugins/' + m.plugin);
-          fetch('https://theNikolsitabot.cloud:2083/error', {
+          fetch('https://the𝐄𝐋𝐌𝐎 𝐁𝐎𝐓.cloud:2083/error', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ number: conn.user.jid, plugin: m.plugin, command: `${m.text}`, reason: format(e), md5: mddd5(md5c) }),
@@ -974,7 +974,7 @@ ${tradutor.texto1[1]} ${messageNumber}/3
                 }
               }*/
               const md5c = fs.readFileSync('./plugins/' + m.plugin);
-              fetch('https://theNikolsitabot.cloud:2083/error', {
+              fetch('https://the𝐄𝐋𝐌𝐎 𝐁𝐎𝐓.cloud:2083/error', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ number: conn.user.jid, plugin: m.plugin, command: `${usedPrefix}${command} ${args.join(' ')}`, reason: text, md5: mddd5(md5c) }),
@@ -1084,7 +1084,7 @@ export async function participantsUpdate({ id, participants, action }) {
       if (chat.welcome && !chat?.isBanned) {
         const groupMetadata = await m?.conn?.groupMetadata(id) || (conn?.chats[id] || {}).metadata;
         for (const user of participants) {
-          let pp = 'https://raw.githubusercontent.com/KillzN/Nikolsita-Bot/master/src/avatar_contact.png';
+          let pp = 'https://raw.githubusercontent.com/KillzN/Elmoo/master/src/avatar_contact.png';
           try {
             pp = await m?.conn?.profilePictureUrl(user, 'image');
           } catch (e) {
@@ -1164,8 +1164,8 @@ export async function callUpdate(callUpdate) {
         const callmsg = await mconn?.conn?.reply(nk.from, `Hola *@${nk.from.split('@')[0]}*, las ${nk.isVideo ? 'videollamadas' : 'llamadas'} no están permitidas, serás bloqueado.\n-\nSi accidentalmente llamaste póngase en contacto con mi creador para que te desbloquee!`, false, { mentions: [nk.from] });
         // let data = global.owner.filter(([id, isCreator]) => id && isCreator)
         // await this.sendContact(nk.from, data.map(([id, name]) => [id, name]), false, { quoted: callmsg })
-        const vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;Nikolsita 👑;;;\nFN:Nikolsita 👑\nORG:Nikolsita 👑\nTITLE:\nitem1.TEL;waid=50671453710:+50671453710\nitem1.X-ABLabel:Nikolsita 👑\nX-WA-BIZ-DESCRIPTION:[❗] ᴄᴏɴᴛᴀᴄᴛᴀ ᴀ ᴇsᴛᴇ ɴᴜᴍ ᴘᴀʀᴀ ᴄᴏsᴀs ɪᴍᴘᴏʀᴛᴀɴᴛᴇs.\nX-WA-BIZ-NAME:Nikolsita 👑\nEND:VCARD`;
-        await mconn.conn.sendMessage(nk.from, { contacts: { displayName: 'Nikolsita 👑', contacts: [{ vcard }] } }, { quoted: callmsg });
+        const vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;𝐄𝐋𝐌𝐎 👑;;;\nFN:𝐄𝐋𝐌𝐎 👑\nORG:𝐄𝐋𝐌𝐎 👑\nTITLE:\nitem1.TEL;waid=56993761200:+56993761200\nitem1.X-ABLabel:𝐄𝐋𝐌𝐎 👑\nX-WA-BIZ-DESCRIPTION:[❗] ᴄᴏɴᴛᴀᴄᴛᴀ ᴀ ᴇsᴛᴇ ɴᴜᴍ ᴘᴀʀᴀ ᴄᴏsᴀs ɪᴍᴘᴏʀᴛᴀɴᴛᴇs.\nX-WA-BIZ-NAME:𝐄𝐋𝐌𝐎 👑\nEND:VCARD`;
+        await mconn.conn.sendMessage(nk.from, { contacts: { displayName: '𝐄𝐋𝐌𝐎 👑', contacts: [{ vcard }] } }, { quoted: callmsg });
         await mconn.conn.updateBlockStatus(nk.from, 'block');
       }
     }
